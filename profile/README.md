@@ -62,3 +62,6 @@ Here I share:
 ## 📫 Contact
 - 🌐 Website: https://www.voxepower.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/renan-verli
+
+<img width="4950" height="1238" alt="LinkedIn Banner 2" src="https://github.com/user-attachments/assets/8d72a3b0-6144-42c4-9256-d97ffa43f852" />
+
